@@ -6,3 +6,4 @@
 5. Node.js NPM
 6. Node.js Events
 7. Node.js Upload Files
+8. Node.js Send an Email
